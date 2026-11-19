@@ -25,7 +25,6 @@
 
 | Proje / Project | Açıklama | Description |
 |---|---|---|
-| [Volvo-Ex30-Charge](https://github.com/atilcelik/Volvo-Ex30-Charge) | Volvo EX30 şarj takip web uygulaması | Volvo EX30 charging tracker |
 
 ## 🔌 Elektronik · Electronics
 
